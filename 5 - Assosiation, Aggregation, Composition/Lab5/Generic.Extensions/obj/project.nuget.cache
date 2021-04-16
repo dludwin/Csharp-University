@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JiYRFlHHUDj78xXXdh9i1K1PcdhLMoT3WwqQSCNADOnp/NDhiHmR5BhnzgTZe1VNQ+sFwuvKS42GpWRg/agR2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\5 - Assosiation, Aggregation, Composition\\Lab5\\Generic.Extensions\\Generic.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

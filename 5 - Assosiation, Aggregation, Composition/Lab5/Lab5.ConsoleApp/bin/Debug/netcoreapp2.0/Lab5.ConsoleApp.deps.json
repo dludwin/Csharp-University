@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Lab5.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Generic.Extensions": "1.0.0",
+          "Lab5.BLL": "1.0.0"
+        },
+        "runtime": {
+          "Lab5.ConsoleApp.dll": {}
+        }
+      },
+      "Generic.Extensions/1.0.0": {
+        "runtime": {
+          "Generic.Extensions.dll": {}
+        }
+      },
+      "Lab5.BLL/1.0.0": {
+        "dependencies": {
+          "Generic.Extensions": "1.0.0"
+        },
+        "runtime": {
+          "Lab5.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Generic.Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab5.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

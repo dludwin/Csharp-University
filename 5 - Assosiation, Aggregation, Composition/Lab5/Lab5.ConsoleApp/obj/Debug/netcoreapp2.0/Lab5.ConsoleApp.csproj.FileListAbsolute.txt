@@ -1,0 +1,33 @@
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.deps.json
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.runtimeconfig.json
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.runtimeconfig.dev.json
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Generic.Extensions.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.BLL.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Generic.Extensions.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.BLL.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.AssemblyInfo.cs
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.csproj.CopyComplete
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.deps.json
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.runtimeconfig.json
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.runtimeconfig.dev.json
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.ConsoleApp.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Generic.Extensions.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.BLL.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Generic.Extensions.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\bin\Debug\netcoreapp2.0\Lab5.BLL.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.AssemblyInfo.cs
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.csproj.CopyComplete
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Lab5.ConsoleApp\obj\Debug\netcoreapp2.0\Lab5.ConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces\Lab3\bin\Debug\Lab3.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces\Lab3\bin\Debug\Lab3.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces\Lab3\obj\Debug\Abstraction_Interfaces_Expression_Func.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces\Lab3\obj\Debug\Abstraction_Interfaces_Expression_Func.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces\Lab3\obj\Debug\Lab3.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces\Lab3\obj\Debug\Lab3.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces, Expression, Func, Predicate\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces, Expression, Func, Predicate\Lab3\bin\Debug\Lab3.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces, Expression, Func, Predicate\Lab3\bin\Debug\Lab3.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces, Expression, Func, Predicate\Lab3\obj\Debug\Abstraction_Interfaces_Expression_Func.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces, Expression, Func, Predicate\Lab3\obj\Debug\Abstraction_Interfaces_Expression_Func.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces, Expression, Func, Predicate\Lab3\obj\Debug\Lab3.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\3 - Abstraction, Interfaces, Expression, Func, Predicate\Lab3\obj\Debug\Lab3.pdb

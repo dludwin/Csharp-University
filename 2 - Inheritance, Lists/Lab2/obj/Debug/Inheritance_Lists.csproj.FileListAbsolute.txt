@@ -1,0 +1,7 @@
+C:\Users\domin\Desktop\L - Programowanie obiektowe\2 - Inheritance, Lists\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\domin\Desktop\L - Programowanie obiektowe\2 - Inheritance, Lists\Lab2\bin\Debug\Lab2.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\2 - Inheritance, Lists\Lab2\bin\Debug\Lab2.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\2 - Inheritance, Lists\Lab2\obj\Debug\Inheritance_Lists.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\2 - Inheritance, Lists\Lab2\obj\Debug\Lab2.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\2 - Inheritance, Lists\Lab2\obj\Debug\Lab2.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\2 - Inheritance, Lists\Lab2\obj\Debug\Inheritance_Lists.csprojAssemblyReference.cache

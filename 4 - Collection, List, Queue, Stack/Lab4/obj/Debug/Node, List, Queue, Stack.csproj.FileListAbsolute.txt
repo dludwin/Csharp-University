@@ -1,0 +1,7 @@
+C:\Users\domin\Desktop\L - Programowanie obiektowe\4 - Collection, List, Queue, Stack\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\domin\Desktop\L - Programowanie obiektowe\4 - Collection, List, Queue, Stack\Lab4\bin\Debug\Lab4.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\4 - Collection, List, Queue, Stack\Lab4\bin\Debug\Lab4.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\4 - Collection, List, Queue, Stack\Lab4\obj\Debug\Node, List, Queue, Stack.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\4 - Collection, List, Queue, Stack\Lab4\obj\Debug\Node, List, Queue, Stack.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\4 - Collection, List, Queue, Stack\Lab4\obj\Debug\Lab4.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\4 - Collection, List, Queue, Stack\Lab4\obj\Debug\Lab4.pdb

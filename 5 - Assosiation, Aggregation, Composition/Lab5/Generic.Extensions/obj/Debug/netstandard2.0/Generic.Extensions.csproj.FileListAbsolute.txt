@@ -1,0 +1,18 @@
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\bin\Debug\netstandard2.0\Generic.Extensions.deps.json
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\bin\Debug\netstandard2.0\Generic.Extensions.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\bin\Debug\netstandard2.0\Generic.Extensions.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.AssemblyInfo.cs
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\Programowanie_obiektowe_S-master\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\bin\Debug\netstandard2.0\Generic.Extensions.deps.json
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\bin\Debug\netstandard2.0\Generic.Extensions.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\bin\Debug\netstandard2.0\Generic.Extensions.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.AssemblyInfo.cs
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.dll
+C:\Users\domin\Desktop\L - Programowanie obiektowe\5 - Assosiation, Aggregation, Composition\Lab5\Generic.Extensions\obj\Debug\netstandard2.0\Generic.Extensions.pdb

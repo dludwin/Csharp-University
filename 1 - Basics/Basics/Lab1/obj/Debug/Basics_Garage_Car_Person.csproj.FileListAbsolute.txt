@@ -1,0 +1,7 @@
+C:\Users\domin\Desktop\L - Programowanie obiektowe\1 - Basics\Basics\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\domin\Desktop\L - Programowanie obiektowe\1 - Basics\Basics\Lab1\bin\Debug\Lab1.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\1 - Basics\Basics\Lab1\bin\Debug\Lab1.pdb
+C:\Users\domin\Desktop\L - Programowanie obiektowe\1 - Basics\Basics\Lab1\obj\Debug\Basics_Garage_Car_Person.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\1 - Basics\Basics\Lab1\obj\Debug\Basics_Garage_Car_Person.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\L - Programowanie obiektowe\1 - Basics\Basics\Lab1\obj\Debug\Lab1.exe
+C:\Users\domin\Desktop\L - Programowanie obiektowe\1 - Basics\Basics\Lab1\obj\Debug\Lab1.pdb

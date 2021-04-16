@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+aqeW3FvYMvggIGmRiFGscby67X4/hKtjrFsjD5Z32hJ/aVhP+oRvJ99T3rh/fXbZT9j7A+N4adBCXPKYqBTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\5 - Assosiation, Aggregation, Composition\\Lab5\\Lab5.ConsoleApp\\Lab5.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
