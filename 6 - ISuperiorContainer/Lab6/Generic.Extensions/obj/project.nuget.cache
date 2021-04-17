@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gTrfcfN3ny/AUB7pYnHfo/txY8XMPfPEpChnLZJlRIp1OD70CgrfTfChr46eR9X+dB31wVIQ/T57TNXRMYV+nA==",
+  "dgSpecHash": "GsPn7vDbCmlGEYPzxHaiwibCiEJFmfNKnQcuKol9uTDJSpZ6h2yRezx/gMPlN/KMbezRu4JN8bWTYm00o4G7eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\6 -\\Lab6\\Generic.Extensions\\Generic.Extensions.csproj",
+  "projectFilePath": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\6 - ISuperiorContainer\\Lab6\\Generic.Extensions\\Generic.Extensions.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

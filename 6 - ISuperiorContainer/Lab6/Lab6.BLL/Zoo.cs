@@ -7,7 +7,7 @@ using Generic.Extensions;
 
 namespace Lab6.BLL
 {
-    public class Zoo : IInfo, IAction
+    public class Zoo : IInfo, ISuperiorContainer
     {
         public string Name { get; set; }
         public IList<Employee> Employees { get; set; }

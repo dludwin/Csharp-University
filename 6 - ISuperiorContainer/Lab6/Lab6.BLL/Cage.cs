@@ -7,7 +7,7 @@ using Generic.Extensions;
 
 namespace Lab6.BLL
 {
-    public class Cage : IAction, IInfo
+    public class Cage : ISuperiorContainer, IInfo
     {
         public Guid Id { get; set; }
         public int Capacity { get; set; }

@@ -7,7 +7,7 @@ using Generic.Extensions;
 
 namespace Lab6.BLL
 {
-    public class CageSupervisor : Employee, IAction
+    public class CageSupervisor : Employee, ISuperiorContainer
     {
         public IList<Cage> Cages { get; private set; }
 

@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\6 -\\Lab6\\Generic.Extensions\\Generic.Extensions.csproj",
+      "projectUniqueName": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\6 - ISuperiorContainer\\Lab6\\Generic.Extensions\\Generic.Extensions.csproj",
       "projectName": "Generic.Extensions",
-      "projectPath": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\6 -\\Lab6\\Generic.Extensions\\Generic.Extensions.csproj",
+      "projectPath": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\6 - ISuperiorContainer\\Lab6\\Generic.Extensions\\Generic.Extensions.csproj",
       "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\6 -\\Lab6\\Generic.Extensions\\obj\\",
+      "outputPath": "C:\\Users\\domin\\Desktop\\L - Programowanie obiektowe\\6 - ISuperiorContainer\\Lab6\\Generic.Extensions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
